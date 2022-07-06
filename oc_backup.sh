@@ -1,10 +1,9 @@
 #!/bin/zsh
-# Title: OC Backup Script
-# Description: Creates a backup of the whole owncloud/nextcloud installation incl. Postgresql database.
-# Author: Julian Poemp
-# Version: 1.0.1
-# LICENSE: MIT
-# Check for updates: https://github.com/julianpoemp/oc-backup
+# Title: Owncloud Backup Script
+# Description: Creates a backup of the whole owncloud installation incl. Postgresql database.
+# Author: Clement Teye Terkpetey
+# Version: 1.0.0
+# Check for updates: https://github.com/cterkpetey/owncloud_backup
 
 OCB_VERSION="1.0.0"
 SECONDS=0
